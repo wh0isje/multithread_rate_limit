@@ -1,4 +1,5 @@
-Rate Limit Tester
+#Rate Limit Tester
+
 Descrição
 Este script tem como objetivo testar o limite de requisições simultâneas (rate-limit) de uma API ou site. Utilizando múltiplas threads, ele é capaz de enviar um grande número de requisições simultâneas para verificar se o servidor responde adequadamente ou se impõe limites de acesso.
 
